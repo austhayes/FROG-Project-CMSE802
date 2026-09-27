@@ -45,6 +45,10 @@ Analysis
 """
 def Analysis():
     print("This function will output the analysis of the FROG data")
+    """
+    Mathematically, the first step, Fourier transform to convert data from the frequency domain to the time domain, and vice versa=. This is a critical next step that will be relied on heavily throughout the rest of the project. Other than this, there is a lot of sort of splitting up of the data that needs to be done. The matlab code does a lot of extra work with the data files that I am not positive is really all that necesssary so I have been spending a bit of time trying to figure out what I need, and how to do this in a clear and concise manner to make sure it is easy to understand, as it is currently, not at all. 
+
+    """
 
     
     
